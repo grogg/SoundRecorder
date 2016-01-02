@@ -1,4 +1,4 @@
-package com.grogg.soundrecorder.fragments;
+package com.joshuaglenlee.soundrecorder.fragments;
 
 import android.os.Bundle;
 import android.os.FileObserver;
@@ -11,8 +11,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.grogg.soundrecorder.R;
-import com.grogg.soundrecorder.adapters.FileViewerAdapter;
+import com.joshuaglenlee.soundrecorder.R;
+import com.joshuaglenlee.soundrecorder.adapters.FileViewerAdapter;
 
 /**
  * Created by Daniel on 12/23/2014.

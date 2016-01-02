@@ -1,4 +1,4 @@
-package com.grogg.soundrecorder.adapters;
+package com.joshuaglenlee.soundrecorder.adapters;
 
 import android.app.AlertDialog;
 import android.content.Context;
@@ -16,11 +16,11 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.grogg.soundrecorder.DBHelper;
-import com.grogg.soundrecorder.R;
-import com.grogg.soundrecorder.RecordingItem;
-import com.grogg.soundrecorder.fragments.PlaybackFragment;
-import com.grogg.soundrecorder.listeners.OnDatabaseChangedListener;
+import com.joshuaglenlee.soundrecorder.DBHelper;
+import com.joshuaglenlee.soundrecorder.R;
+import com.joshuaglenlee.soundrecorder.RecordingItem;
+import com.joshuaglenlee.soundrecorder.fragments.PlaybackFragment;
+import com.joshuaglenlee.soundrecorder.listeners.OnDatabaseChangedListener;
 
 import java.io.File;
 import java.text.SimpleDateFormat;

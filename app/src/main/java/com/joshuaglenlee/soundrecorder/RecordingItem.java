@@ -1,4 +1,4 @@
-package com.grogg.soundrecorder;
+package com.joshuaglenlee.soundrecorder;
 
 import android.os.Parcel;
 import android.os.Parcelable;

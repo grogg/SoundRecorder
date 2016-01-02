@@ -1,4 +1,4 @@
-package com.grogg.soundrecorder.fragments;
+package com.joshuaglenlee.soundrecorder.fragments;
 
 import android.app.AlertDialog;
 import android.app.Dialog;
@@ -16,8 +16,8 @@ import android.view.WindowManager;
 import android.widget.SeekBar;
 import android.widget.TextView;
 
-import com.grogg.soundrecorder.R;
-import com.grogg.soundrecorder.RecordingItem;
+import com.joshuaglenlee.soundrecorder.R;
+import com.joshuaglenlee.soundrecorder.RecordingItem;
 import com.melnykov.fab.FloatingActionButton;
 
 import java.io.IOException;

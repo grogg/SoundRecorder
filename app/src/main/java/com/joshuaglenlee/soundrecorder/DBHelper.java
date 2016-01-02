@@ -1,4 +1,4 @@
-package com.grogg.soundrecorder;
+package com.joshuaglenlee.soundrecorder;
 
 import android.content.ContentValues;
 import android.content.Context;
@@ -7,7 +7,7 @@ import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 import android.provider.BaseColumns;
 
-import com.grogg.soundrecorder.listeners.OnDatabaseChangedListener;
+import com.joshuaglenlee.soundrecorder.listeners.OnDatabaseChangedListener;
 
 import java.util.Comparator;
 

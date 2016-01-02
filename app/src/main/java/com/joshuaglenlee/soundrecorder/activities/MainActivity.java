@@ -1,4 +1,4 @@
-package com.grogg.soundrecorder.activities;
+package com.joshuaglenlee.soundrecorder.activities;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -11,10 +11,10 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 import com.astuetz.PagerSlidingTabStrip;
-import com.grogg.soundrecorder.R;
-import com.grogg.soundrecorder.fragments.FileViewerFragment;
-import com.grogg.soundrecorder.fragments.LicensesFragment;
-import com.grogg.soundrecorder.fragments.RecordFragment;
+import com.joshuaglenlee.soundrecorder.R;
+import com.joshuaglenlee.soundrecorder.fragments.FileViewerFragment;
+import com.joshuaglenlee.soundrecorder.fragments.LicensesFragment;
+import com.joshuaglenlee.soundrecorder.fragments.RecordFragment;
 
 
 public class MainActivity extends ActionBarActivity{

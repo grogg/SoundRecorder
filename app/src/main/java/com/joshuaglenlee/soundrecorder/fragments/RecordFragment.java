@@ -1,4 +1,4 @@
-package com.grogg.soundrecorder.fragments;
+package com.joshuaglenlee.soundrecorder.fragments;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -14,8 +14,8 @@ import android.widget.Chronometer;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.grogg.soundrecorder.R;
-import com.grogg.soundrecorder.RecordingService;
+import com.joshuaglenlee.soundrecorder.R;
+import com.joshuaglenlee.soundrecorder.RecordingService;
 import com.melnykov.fab.FloatingActionButton;
 
 import java.io.File;
